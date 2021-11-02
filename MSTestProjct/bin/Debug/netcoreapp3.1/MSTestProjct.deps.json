@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "MSTectReflection/1.0.0": {
+      "MSTestProjct/1.0.0": {
         "dependencies": {
           "MSTest.TestAdapter": "2.2.3",
           "MSTest.TestFramework": "2.2.3",
@@ -15,7 +15,7 @@
           "coverlet.collector": "3.0.2"
         },
         "runtime": {
-          "MSTectReflection.dll": {}
+          "MSTestProjct.dll": {}
         }
       },
       "coverlet.collector/3.0.2": {},
@@ -1085,7 +1085,7 @@
     }
   },
   "libraries": {
-    "MSTectReflection/1.0.0": {
+    "MSTestProjct/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
