@@ -1,0 +1,14 @@
+C:\Users\md048\source\repos\ReflectionMoodAnlyser\ReflectioProject\bin\Debug\netcoreapp3.1\ReflectioProject.exe
+C:\Users\md048\source\repos\ReflectionMoodAnlyser\ReflectioProject\bin\Debug\netcoreapp3.1\ReflectioProject.deps.json
+C:\Users\md048\source\repos\ReflectionMoodAnlyser\ReflectioProject\bin\Debug\netcoreapp3.1\ReflectioProject.runtimeconfig.json
+C:\Users\md048\source\repos\ReflectionMoodAnlyser\ReflectioProject\bin\Debug\netcoreapp3.1\ReflectioProject.runtimeconfig.dev.json
+C:\Users\md048\source\repos\ReflectionMoodAnlyser\ReflectioProject\bin\Debug\netcoreapp3.1\ReflectioProject.dll
+C:\Users\md048\source\repos\ReflectionMoodAnlyser\ReflectioProject\bin\Debug\netcoreapp3.1\ReflectioProject.pdb
+C:\Users\md048\source\repos\ReflectionMoodAnlyser\ReflectioProject\obj\Debug\netcoreapp3.1\ReflectioProject.csproj.AssemblyReference.cache
+C:\Users\md048\source\repos\ReflectionMoodAnlyser\ReflectioProject\obj\Debug\netcoreapp3.1\ReflectioProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\md048\source\repos\ReflectionMoodAnlyser\ReflectioProject\obj\Debug\netcoreapp3.1\ReflectioProject.AssemblyInfoInputs.cache
+C:\Users\md048\source\repos\ReflectionMoodAnlyser\ReflectioProject\obj\Debug\netcoreapp3.1\ReflectioProject.AssemblyInfo.cs
+C:\Users\md048\source\repos\ReflectionMoodAnlyser\ReflectioProject\obj\Debug\netcoreapp3.1\ReflectioProject.csproj.CoreCompileInputs.cache
+C:\Users\md048\source\repos\ReflectionMoodAnlyser\ReflectioProject\obj\Debug\netcoreapp3.1\ReflectioProject.dll
+C:\Users\md048\source\repos\ReflectionMoodAnlyser\ReflectioProject\obj\Debug\netcoreapp3.1\ReflectioProject.pdb
+C:\Users\md048\source\repos\ReflectionMoodAnlyser\ReflectioProject\obj\Debug\netcoreapp3.1\ReflectioProject.genruntimeconfig.cache
